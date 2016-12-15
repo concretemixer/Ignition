@@ -1,0 +1,136 @@
+fileFormatVersion: 2
+guid: 8162c84019afc1f43a579dafd0533152
+timeCreated: 1474049372
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: bridge_enter_1
+    100002: farm_road1
+    100004: road_1
+    100006: rr_bed
+    100008: slope1
+    100010: //RootNode
+    100012: Env_Road_Ramp
+    100014: fork_1 (1)
+    100016: GameObject
+    100018: rock1
+    100020: fork_3
+    100022: road_2 (1)
+    100024: wall4
+    100026: wall5
+    400000: bridge_enter_1
+    400002: farm_road1
+    400004: road_1
+    400006: rr_bed
+    400008: slope1
+    400010: //RootNode
+    400012: Env_Road_Ramp
+    400014: fork_1 (1)
+    400016: GameObject
+    400018: rock1
+    400020: fork_3
+    400022: road_2 (1)
+    400024: wall4
+    400026: wall5
+    2300000: bridge_enter_1
+    2300002: farm_road1
+    2300004: road_1
+    2300006: rr_bed
+    2300008: slope1
+    2300010: Env_Road_Ramp
+    2300012: fork_1 (1)
+    2300014: rock1
+    2300016: fork_3
+    2300018: road_2 (1)
+    2300020: wall4
+    2300022: wall5
+    3300000: bridge_enter_1
+    3300002: farm_road1
+    3300004: road_1
+    3300006: rr_bed
+    3300008: slope1
+    3300010: Env_Road_Ramp
+    3300012: fork_1 (1)
+    3300014: rock1
+    3300016: fork_3
+    3300018: road_2 (1)
+    3300020: wall4
+    3300022: wall5
+    4300000: slope1
+    4300002: road_1
+    4300004: bridge_enter_1
+    4300006: rr_bed
+    4300008: farm_road1
+    4300010: fork_1 (1)
+    4300012: Env_Road_Ramp
+    4300014: rock1
+    4300016: road_2 (1)
+    4300018: fork_3
+    4300020: wall4
+    4300022: wall5
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
