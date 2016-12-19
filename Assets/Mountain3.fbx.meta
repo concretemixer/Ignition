@@ -13,6 +13,22 @@ ModelImporter:
     100010: Mountain4_
     100012: Mountain5_
     100014: Mountain6_
+    100016: Mountain7
+    100018: Mountain7_
+    100020: Mountain8_
+    100022: Mountain9_
+    100024: Mountain10_
+    100026: Mountain11_
+    100028: TrackB
+    100030: rr_bed_edited
+    100032: Mountain12_
+    100034: Grass1_
+    100036: Mountain13_
+    100038: Mountain14_
+    100040: Grass2_
+    100042: Mountain15_
+    100044: TrackC
+    100046: Mountain16
     400000: //RootNode
     400002: Mountain1_
     400004: Mountain3_
@@ -21,6 +37,22 @@ ModelImporter:
     400010: Mountain4_
     400012: Mountain5_
     400014: Mountain6_
+    400016: Mountain7
+    400018: Mountain7_
+    400020: Mountain8_
+    400022: Mountain9_
+    400024: Mountain10_
+    400026: Mountain11_
+    400028: TrackB
+    400030: rr_bed_edited
+    400032: Mountain12_
+    400034: Grass1_
+    400036: Mountain13_
+    400038: Mountain14_
+    400040: Grass2_
+    400042: Mountain15_
+    400044: TrackC
+    400046: Mountain16
     2300000: //RootNode
     2300002: Mountain1_
     2300004: Mountain3_
@@ -29,6 +61,22 @@ ModelImporter:
     2300010: Mountain4_
     2300012: Mountain5_
     2300014: Mountain6_
+    2300016: Mountain7
+    2300018: Mountain7_
+    2300020: Mountain8_
+    2300022: Mountain9_
+    2300024: Mountain10_
+    2300026: Mountain11_
+    2300028: TrackB
+    2300030: rr_bed_edited
+    2300032: Mountain12_
+    2300034: Grass1_
+    2300036: Mountain13_
+    2300038: Mountain14_
+    2300040: Grass2_
+    2300042: Mountain15_
+    2300044: TrackC
+    2300046: Mountain16
     3300000: //RootNode
     3300002: Mountain1_
     3300004: Mountain3_
@@ -37,6 +85,22 @@ ModelImporter:
     3300010: Mountain4_
     3300012: Mountain5_
     3300014: Mountain6_
+    3300016: Mountain7
+    3300018: Mountain7_
+    3300020: Mountain8_
+    3300022: Mountain9_
+    3300024: Mountain10_
+    3300026: Mountain11_
+    3300028: TrackB
+    3300030: rr_bed_edited
+    3300032: Mountain12_
+    3300034: Grass1_
+    3300036: Mountain13_
+    3300038: Mountain14_
+    3300040: Grass2_
+    3300042: Mountain15_
+    3300044: TrackC
+    3300046: Mountain16
     4300000: Mountain3
     4300002: Mountain3_
     4300004: Mountain1_
@@ -45,6 +109,22 @@ ModelImporter:
     4300010: Mountain4_
     4300012: Mountain5_
     4300014: Mountain6_
+    4300016: Mountain7
+    4300018: Mountain7_
+    4300020: Mountain8_
+    4300022: Mountain9_
+    4300024: Mountain10_
+    4300026: Mountain11_
+    4300028: TrackB
+    4300030: rr_bed_edited
+    4300032: Mountain12_
+    4300034: Grass1_
+    4300036: Mountain13_
+    4300038: Mountain14_
+    4300040: Grass2_
+    4300042: Mountain15_
+    4300044: TrackC
+    4300046: Mountain16
   materials:
     importMaterials: 1
     materialName: 1
