@@ -51,6 +51,10 @@ ModelImporter:
     100086: Mountain28_
     100088: Mountain29_
     100090: TrackG
+    100092: Mountain30_
+    100094: Camera001
+    100096: Camera001.Target
+    100098: TrackH
     400000: //RootNode
     400002: Mountain1_
     400004: Mountain3_
@@ -97,6 +101,10 @@ ModelImporter:
     400086: Mountain28_
     400088: Mountain29_
     400090: TrackG
+    400092: Mountain30_
+    400094: Camera001
+    400096: Camera001.Target
+    400098: TrackH
     2300000: //RootNode
     2300002: Mountain1_
     2300004: Mountain3_
@@ -143,6 +151,8 @@ ModelImporter:
     2300086: Mountain28_
     2300088: Mountain29_
     2300090: TrackG
+    2300092: Mountain30_
+    2300094: TrackH
     3300000: //RootNode
     3300002: Mountain1_
     3300004: Mountain3_
@@ -189,6 +199,8 @@ ModelImporter:
     3300086: Mountain28_
     3300088: Mountain29_
     3300090: TrackG
+    3300092: Mountain30_
+    3300094: TrackH
     4300000: Mountain3
     4300002: Mountain3_
     4300004: Mountain1_
@@ -235,6 +247,8 @@ ModelImporter:
     4300086: Mountain28_
     4300088: Mountain29_
     4300090: TrackG
+    4300092: Mountain30_
+    4300094: TrackH
   materials:
     importMaterials: 1
     materialName: 1
