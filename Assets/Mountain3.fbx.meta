@@ -29,6 +29,24 @@ ModelImporter:
     100042: Mountain15_
     100044: TrackC
     100046: Mountain16
+    100048: Mountain17_
+    100050: Mountain18_
+    100052: Grass3_
+    100054: Grass4_
+    100056: Tunnel1
+    100058: Mountain19_
+    100060: Mountain20_
+    100062: TrackD
+    100064: Mountain21_
+    100066: Mountain22
+    100068: Collision
+    100070: TrackE
+    100072: Mountain23_
+    100074: Mountain24_
+    100076: Mountain25_
+    100078: Mountain26
+    100080: Mountain26_
+    100082: TrackF
     400000: //RootNode
     400002: Mountain1_
     400004: Mountain3_
@@ -53,6 +71,24 @@ ModelImporter:
     400042: Mountain15_
     400044: TrackC
     400046: Mountain16
+    400048: Mountain17_
+    400050: Mountain18_
+    400052: Grass3_
+    400054: Grass4_
+    400056: Tunnel1
+    400058: Mountain19_
+    400060: Mountain20_
+    400062: TrackD
+    400064: Mountain21_
+    400066: Mountain22
+    400068: Collision
+    400070: TrackE
+    400072: Mountain23_
+    400074: Mountain24_
+    400076: Mountain25_
+    400078: Mountain26
+    400080: Mountain26_
+    400082: TrackF
     2300000: //RootNode
     2300002: Mountain1_
     2300004: Mountain3_
@@ -77,6 +113,24 @@ ModelImporter:
     2300042: Mountain15_
     2300044: TrackC
     2300046: Mountain16
+    2300048: Mountain17_
+    2300050: Mountain18_
+    2300052: Grass3_
+    2300054: Grass4_
+    2300056: Tunnel1
+    2300058: Mountain19_
+    2300060: Mountain20_
+    2300062: TrackD
+    2300064: Mountain21_
+    2300066: Mountain22
+    2300068: Collision
+    2300070: TrackE
+    2300072: Mountain23_
+    2300074: Mountain24_
+    2300076: Mountain25_
+    2300078: Mountain26
+    2300080: Mountain26_
+    2300082: TrackF
     3300000: //RootNode
     3300002: Mountain1_
     3300004: Mountain3_
@@ -101,6 +155,24 @@ ModelImporter:
     3300042: Mountain15_
     3300044: TrackC
     3300046: Mountain16
+    3300048: Mountain17_
+    3300050: Mountain18_
+    3300052: Grass3_
+    3300054: Grass4_
+    3300056: Tunnel1
+    3300058: Mountain19_
+    3300060: Mountain20_
+    3300062: TrackD
+    3300064: Mountain21_
+    3300066: Mountain22
+    3300068: Collision
+    3300070: TrackE
+    3300072: Mountain23_
+    3300074: Mountain24_
+    3300076: Mountain25_
+    3300078: Mountain26
+    3300080: Mountain26_
+    3300082: TrackF
     4300000: Mountain3
     4300002: Mountain3_
     4300004: Mountain1_
@@ -125,6 +197,24 @@ ModelImporter:
     4300042: Mountain15_
     4300044: TrackC
     4300046: Mountain16
+    4300048: Mountain17_
+    4300050: Mountain18_
+    4300052: Grass3_
+    4300054: Grass4_
+    4300056: Tunnel1
+    4300058: Mountain19_
+    4300060: Mountain20_
+    4300062: TrackD
+    4300064: Mountain21_
+    4300066: Mountain22
+    4300068: Collision
+    4300070: TrackE
+    4300072: Mountain23_
+    4300074: Mountain24_
+    4300076: Mountain25_
+    4300078: Mountain26
+    4300080: Mountain26_
+    4300082: TrackF
   materials:
     importMaterials: 1
     materialName: 1
