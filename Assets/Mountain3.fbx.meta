@@ -47,6 +47,10 @@ ModelImporter:
     100078: Mountain26
     100080: Mountain26_
     100082: TrackF
+    100084: Mountain27_
+    100086: Mountain28_
+    100088: Mountain29_
+    100090: TrackG
     400000: //RootNode
     400002: Mountain1_
     400004: Mountain3_
@@ -89,6 +93,10 @@ ModelImporter:
     400078: Mountain26
     400080: Mountain26_
     400082: TrackF
+    400084: Mountain27_
+    400086: Mountain28_
+    400088: Mountain29_
+    400090: TrackG
     2300000: //RootNode
     2300002: Mountain1_
     2300004: Mountain3_
@@ -131,6 +139,10 @@ ModelImporter:
     2300078: Mountain26
     2300080: Mountain26_
     2300082: TrackF
+    2300084: Mountain27_
+    2300086: Mountain28_
+    2300088: Mountain29_
+    2300090: TrackG
     3300000: //RootNode
     3300002: Mountain1_
     3300004: Mountain3_
@@ -173,6 +185,10 @@ ModelImporter:
     3300078: Mountain26
     3300080: Mountain26_
     3300082: TrackF
+    3300084: Mountain27_
+    3300086: Mountain28_
+    3300088: Mountain29_
+    3300090: TrackG
     4300000: Mountain3
     4300002: Mountain3_
     4300004: Mountain1_
@@ -215,6 +231,10 @@ ModelImporter:
     4300078: Mountain26
     4300080: Mountain26_
     4300082: TrackF
+    4300084: Mountain27_
+    4300086: Mountain28_
+    4300088: Mountain29_
+    4300090: TrackG
   materials:
     importMaterials: 1
     materialName: 1
