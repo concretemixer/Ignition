@@ -58,6 +58,8 @@ ModelImporter:
     100100: Mountain31_
     100102: Grass5
     100104: Mountain32_
+    100106: Mountain33_
+    100108: TrackZ
     400000: //RootNode
     400002: Mountain1_
     400004: Mountain3_
@@ -111,6 +113,8 @@ ModelImporter:
     400100: Mountain31_
     400102: Grass5
     400104: Mountain32_
+    400106: Mountain33_
+    400108: TrackZ
     2300000: //RootNode
     2300002: Mountain1_
     2300004: Mountain3_
@@ -162,6 +166,8 @@ ModelImporter:
     2300096: Mountain31_
     2300098: Grass5
     2300100: Mountain32_
+    2300102: Mountain33_
+    2300104: TrackZ
     3300000: //RootNode
     3300002: Mountain1_
     3300004: Mountain3_
@@ -213,6 +219,8 @@ ModelImporter:
     3300096: Mountain31_
     3300098: Grass5
     3300100: Mountain32_
+    3300102: Mountain33_
+    3300104: TrackZ
     4300000: Mountain3
     4300002: Mountain3_
     4300004: Mountain1_
@@ -264,6 +272,8 @@ ModelImporter:
     4300096: Mountain31_
     4300098: Grass5
     4300100: Mountain32_
+    4300102: Mountain33_
+    4300104: TrackZ
   materials:
     importMaterials: 1
     materialName: 1
