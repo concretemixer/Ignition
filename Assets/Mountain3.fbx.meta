@@ -62,6 +62,19 @@ ModelImporter:
     100108: TrackZ
     100110: Grass4
     100112: Grass6
+    100114: Field1
+    100116: Barn1_
+    100118: Barn1Inside_
+    100120: Grass7_
+    100122: Grass8_
+    100124: Bridge1_
+    100126: Bridge2
+    100128: Bridge3_
+    100130: PowerLines1_
+    100132: Mountain34_
+    100134: Mountain35_
+    100136: StoneFence1_
+    100138: Path1_
     400000: //RootNode
     400002: Mountain1_
     400004: Mountain3_
@@ -119,6 +132,19 @@ ModelImporter:
     400108: TrackZ
     400110: Grass4
     400112: Grass6
+    400114: Field1
+    400116: Barn1_
+    400118: Barn1Inside_
+    400120: Grass7_
+    400122: Grass8_
+    400124: Bridge1_
+    400126: Bridge2
+    400128: Bridge3_
+    400130: PowerLines1_
+    400132: Mountain34_
+    400134: Mountain35_
+    400136: StoneFence1_
+    400138: Path1_
     2300000: //RootNode
     2300002: Mountain1_
     2300004: Mountain3_
@@ -174,6 +200,19 @@ ModelImporter:
     2300104: TrackZ
     2300106: Grass4
     2300108: Grass6
+    2300110: Field1
+    2300112: Barn1_
+    2300114: Barn1Inside_
+    2300116: Grass7_
+    2300118: Grass8_
+    2300120: Bridge1_
+    2300122: Bridge2
+    2300124: Bridge3_
+    2300126: PowerLines1_
+    2300128: Mountain34_
+    2300130: Mountain35_
+    2300132: StoneFence1_
+    2300134: Path1_
     3300000: //RootNode
     3300002: Mountain1_
     3300004: Mountain3_
@@ -229,6 +268,19 @@ ModelImporter:
     3300104: TrackZ
     3300106: Grass4
     3300108: Grass6
+    3300110: Field1
+    3300112: Barn1_
+    3300114: Barn1Inside_
+    3300116: Grass7_
+    3300118: Grass8_
+    3300120: Bridge1_
+    3300122: Bridge2
+    3300124: Bridge3_
+    3300126: PowerLines1_
+    3300128: Mountain34_
+    3300130: Mountain35_
+    3300132: StoneFence1_
+    3300134: Path1_
     4300000: Mountain3
     4300002: Mountain3_
     4300004: Mountain1_
@@ -284,6 +336,19 @@ ModelImporter:
     4300104: TrackZ
     4300106: Grass4
     4300108: Grass6
+    4300110: Field1
+    4300112: Barn1_
+    4300114: Barn1Inside_
+    4300116: Grass7_
+    4300118: Grass8_
+    4300120: Bridge1_
+    4300122: Bridge2
+    4300124: Bridge3_
+    4300126: PowerLines1_
+    4300128: Mountain34_
+    4300130: Mountain35_
+    4300132: StoneFence1_
+    4300134: Path1_
   materials:
     importMaterials: 1
     materialName: 1
