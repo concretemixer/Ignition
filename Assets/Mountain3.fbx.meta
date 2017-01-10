@@ -78,6 +78,7 @@ ModelImporter:
     100140: Dark1
     100142: Fog1
     100144: Fog2
+    100146: TrackCollision_
     400000: //RootNode
     400002: Mountain1_
     400004: Mountain3_
@@ -151,6 +152,7 @@ ModelImporter:
     400140: Dark1
     400142: Fog1
     400144: Fog2
+    400146: TrackCollision_
     2300000: //RootNode
     2300002: Mountain1_
     2300004: Mountain3_
@@ -222,6 +224,7 @@ ModelImporter:
     2300136: Dark1
     2300138: Fog1
     2300140: Fog2
+    2300142: TrackCollision_
     3300000: //RootNode
     3300002: Mountain1_
     3300004: Mountain3_
@@ -293,6 +296,7 @@ ModelImporter:
     3300136: Dark1
     3300138: Fog1
     3300140: Fog2
+    3300142: TrackCollision_
     4300000: Mountain3
     4300002: Mountain3_
     4300004: Mountain1_
@@ -364,6 +368,7 @@ ModelImporter:
     4300136: Dark1
     4300138: Fog1
     4300140: Fog2
+    4300142: TrackCollision_
   materials:
     importMaterials: 1
     materialName: 1
