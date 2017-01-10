@@ -75,6 +75,9 @@ ModelImporter:
     100134: Mountain35_
     100136: StoneFence1_
     100138: Path1_
+    100140: Dark1
+    100142: Fog1
+    100144: Fog2
     400000: //RootNode
     400002: Mountain1_
     400004: Mountain3_
@@ -145,6 +148,9 @@ ModelImporter:
     400134: Mountain35_
     400136: StoneFence1_
     400138: Path1_
+    400140: Dark1
+    400142: Fog1
+    400144: Fog2
     2300000: //RootNode
     2300002: Mountain1_
     2300004: Mountain3_
@@ -213,6 +219,9 @@ ModelImporter:
     2300130: Mountain35_
     2300132: StoneFence1_
     2300134: Path1_
+    2300136: Dark1
+    2300138: Fog1
+    2300140: Fog2
     3300000: //RootNode
     3300002: Mountain1_
     3300004: Mountain3_
@@ -281,6 +290,9 @@ ModelImporter:
     3300130: Mountain35_
     3300132: StoneFence1_
     3300134: Path1_
+    3300136: Dark1
+    3300138: Fog1
+    3300140: Fog2
     4300000: Mountain3
     4300002: Mountain3_
     4300004: Mountain1_
@@ -349,6 +361,9 @@ ModelImporter:
     4300130: Mountain35_
     4300132: StoneFence1_
     4300134: Path1_
+    4300136: Dark1
+    4300138: Fog1
+    4300140: Fog2
   materials:
     importMaterials: 1
     materialName: 1
