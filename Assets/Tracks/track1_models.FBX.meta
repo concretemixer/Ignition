@@ -22,6 +22,7 @@ ModelImporter:
     100028: TunnelEastArcLow
     100030: BridgeEastWalls
     100032: TunnelEastGrass
+    100034: EastBridgeRoadSide
     400000: //RootNode
     400002: TrackA
     400004: TrackB
@@ -39,6 +40,7 @@ ModelImporter:
     400028: TunnelEastArcLow
     400030: BridgeEastWalls
     400032: TunnelEastGrass
+    400034: EastBridgeRoadSide
     2300000: TrackA
     2300002: TrackB
     2300004: TrackC
@@ -55,6 +57,7 @@ ModelImporter:
     2300026: TunnelEastArcLow
     2300028: BridgeEastWalls
     2300030: TunnelEastGrass
+    2300032: EastBridgeRoadSide
     3300000: TrackA
     3300002: TrackB
     3300004: TrackC
@@ -71,6 +74,7 @@ ModelImporter:
     3300026: TunnelEastArcLow
     3300028: BridgeEastWalls
     3300030: TunnelEastGrass
+    3300032: EastBridgeRoadSide
     4300000: TrackA
     4300002: TrackB
     4300004: TrackC
@@ -87,6 +91,7 @@ ModelImporter:
     4300026: TunnelEastArcLow
     4300028: BridgeEastWalls
     4300030: TunnelEastGrass
+    4300032: EastBridgeRoadSide
     7400000: Take 001
     9500000: //RootNode
   materials:
