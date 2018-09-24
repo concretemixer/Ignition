@@ -25,6 +25,13 @@ ModelImporter:
     100034: EastBridgeRoadSide
     100036: BridgeEastSlope
     100038: BridgeEastGrass
+    100040: BridgeWestWalls
+    100042: BridgeWestRocks
+    100044: BridgeWestBridge
+    100046: BridgeWestRocksUp
+    100048: Object001
+    100050: CityRoadRocksWest
+    100052: CityRoadGrassWest
     400000: //RootNode
     400002: TrackA
     400004: TrackB
@@ -45,6 +52,13 @@ ModelImporter:
     400034: EastBridgeRoadSide
     400036: BridgeEastSlope
     400038: BridgeEastGrass
+    400040: BridgeWestWalls
+    400042: BridgeWestRocks
+    400044: BridgeWestBridge
+    400046: BridgeWestRocksUp
+    400048: Object001
+    400050: CityRoadRocksWest
+    400052: CityRoadGrassWest
     2300000: TrackA
     2300002: TrackB
     2300004: TrackC
@@ -64,6 +78,13 @@ ModelImporter:
     2300032: EastBridgeRoadSide
     2300034: BridgeEastSlope
     2300036: BridgeEastGrass
+    2300038: BridgeWestWalls
+    2300040: BridgeWestRocks
+    2300042: BridgeWestBridge
+    2300044: BridgeWestRocksUp
+    2300046: Object001
+    2300048: CityRoadRocksWest
+    2300050: CityRoadGrassWest
     3300000: TrackA
     3300002: TrackB
     3300004: TrackC
@@ -83,6 +104,13 @@ ModelImporter:
     3300032: EastBridgeRoadSide
     3300034: BridgeEastSlope
     3300036: BridgeEastGrass
+    3300038: BridgeWestWalls
+    3300040: BridgeWestRocks
+    3300042: BridgeWestBridge
+    3300044: BridgeWestRocksUp
+    3300046: Object001
+    3300048: CityRoadRocksWest
+    3300050: CityRoadGrassWest
     4300000: TrackA
     4300002: TrackB
     4300004: TrackC
@@ -102,6 +130,13 @@ ModelImporter:
     4300032: EastBridgeRoadSide
     4300034: BridgeEastSlope
     4300036: BridgeEastGrass
+    4300038: BridgeWestWalls
+    4300040: BridgeWestRocks
+    4300042: BridgeWestBridge
+    4300044: BridgeWestRocksUp
+    4300046: Object001
+    4300048: CityRoadRocksWest
+    4300050: CityRoadGrassWest
     7400000: Take 001
     9500000: //RootNode
   materials:
