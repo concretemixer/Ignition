@@ -25,8 +25,11 @@ public class SaveHeightmap : MonoBehaviour {
 
         byte[] data = new byte[513 * 513];
 
+        
+
         for (int xx = 0; xx <= 512; xx++)
         {
+            byte defaultHeight = 255;
             for (int zz = 0; zz <= 512; zz++)
             {
                 point = new Vector3(step.x * xx, 0, step.z * zz);
@@ -34,7 +37,7 @@ public class SaveHeightmap : MonoBehaviour {
 
 
 
-                byte b = 255;
+                byte b = defaultHeight;
                 float h = 0;
                 RaycastHit hitInfo;
 
@@ -52,6 +55,7 @@ public class SaveHeightmap : MonoBehaviour {
                         b = (byte)(255 * (h / Terrain.activeTerrain.terrainData.size.y));
                     }
                 }
+                defaultHeight = b;
                 data[zz * 513 + xx] = b;
             }
         }
