@@ -29,7 +29,7 @@ public class SaveHeightmap : MonoBehaviour {
 
         for (int xx = 0; xx <= 512; xx++)
         {
-            byte defaultHeight = 255;
+            byte defaultHeight = 0;
             for (int zz = 0; zz <= 512; zz++)
             {
                 point = new Vector3(step.x * xx, 0, step.z * zz);
@@ -55,7 +55,7 @@ public class SaveHeightmap : MonoBehaviour {
                         b = (byte)(255 * (h / Terrain.activeTerrain.terrainData.size.y));
                     }
                 }
-                defaultHeight = b;
+               // defaultHeight = b;
                 data[zz * 513 + xx] = b;
             }
         }
